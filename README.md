@@ -1,5 +1,5 @@
 # html-css
- Desenvolvendo em HTML 5 + CSS 3
+ <strong>Desenvolvendo em HTML 5 + CSS 3</strong>
 
  Vejas alguns de meus projetos:
 
