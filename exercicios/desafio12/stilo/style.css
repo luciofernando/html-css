@@ -67,7 +67,8 @@ section {
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
-    ;
+    box-shadow: 2px 2px 20px black;
+    
 }
 
 section#img01 {
